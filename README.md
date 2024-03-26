@@ -1,6 +1,6 @@
 <h3 align="center">Software engineering student  </h3>
 
-- 🌱 I’m currently learning **laravel**
+ [//]: <> (- 🌱 I’m currently learning **laravel**)
 
 <h3 align="left">Connect with me: +216 50345160 , boukhchimfiras487@gmail.com</h3>
 <p align="left">

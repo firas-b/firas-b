@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firas Boukhchim</h1>
-<h3 align="center">A Software engineering student</h3>
+<h3 align="center">A Software engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://firas-b.github.io/portfolio/](https://firas-b.github.io/portfolio/)
 
